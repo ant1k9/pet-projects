@@ -15,8 +15,9 @@ There are some features that it'll be cool to support with this tool:
 ```bash
 $ backup the .
 $ backup list
-$ backup show versions .
-$ backup restore version=3 .
+$ backup versions .
+$ backup restore --version=3 .
+$ backup clean --version=3 .
 ```
 
 If there are several versions of backups, the `version` argument is required.
@@ -25,7 +26,7 @@ If there are several versions of backups, the `version` argument is required.
 
 Environment variables:
 
-- `BACKUP_TOOL_DIRECORY` - the directory to kept all backups
+- `BACKUP_TOOL_DIRECTORY` - the directory to kept all backups
 
 ### Notes
 
