@@ -3,5 +3,6 @@
 - ✅ [Package manager for GitHub](./github-package-manager)
 - ✅ [Alias manager to create custom CLI tools and make autocomplete for shell](./alias-manager)
 - ✅ [Kubernetes scaffolding](./kubernetes-scaffolding)
+- ✅ [Backup tool](./backup-tool)
 - 🆕 [Web notebook](./web-notebook)
-- 🆕 [Backup tool](./backup-tool)
+- 🆕 [Diary](./diary)
