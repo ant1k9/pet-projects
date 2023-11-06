@@ -4,5 +4,7 @@
 - ✅ [Alias manager to create custom CLI tools and make autocomplete for shell](./alias-manager)
 - ✅ [Kubernetes scaffolding](./kubernetes-scaffolding)
 - ✅ [Backup tool](./backup-tool)
+- ✅ [Diary](./diary)
 - 🆕 [Web notebook](./web-notebook)
-- 🆕 [Diary](./diary)
+
+[Github-pages](https://ant1k9.github.io/pet-projects/)
