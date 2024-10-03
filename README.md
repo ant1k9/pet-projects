@@ -6,5 +6,6 @@
 - ✅ [Backup tool](./backup-tool)
 - ✅ [Diary](./diary)
 - 🆕 [Web notebook](./web-notebook)
+- 🆕 [Habits Manager App](./habits-manager-app)
 
 [Github-pages](https://ant1k9.github.io/pet-projects/)
